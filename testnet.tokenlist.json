@@ -1,0 +1,30 @@
+{
+  "name": "FrogSwap Default List",
+  "timestamp": "2022-09-02T09:56:23Z",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/FrogSwap/frogamm-testnet-tokenlist/main/assets/kekchain/0x4f05F2927080A47a88c5cBb958A7A492F09b1340/logo.png",
+  "keywords": ["frogswap", "default"],
+  "tokens": [
+    {
+      "name": "wKEK Token",
+      "symbol": "wKEK",
+      "address": "0xA888a7A2dc73efdb5705106a216f068e939A2693",
+      "chainId": 420666,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FrogSwap/frogamm-testnet-tokenlist/main/assets/kekchain/0xA888a7A2dc73efdb5705106a216f068e939A2693/logo.png"
+    },
+    {
+      "name": "FrogSwap Token",
+      "symbol": "FROG",
+      "address": "0x4f05F2927080A47a88c5cBb958A7A492F09b1340",
+      "chainId": 420666,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/FrogSwap/frogamm-testnet-tokenlist/main/assets/kekchain/0x4f05F2927080A47a88c5cBb958A7A492F09b1340/logo.png"
+    }
+  ]
+}
